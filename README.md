@@ -31,12 +31,12 @@ Le système intègre :
 2. Installez les dépendances :
 code
 ```Bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 3. Lancez l'application :
 code
 ```Bash
-python app.py
+   python app.py
 ```
 ## 👤 Auteur
 
