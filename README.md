@@ -27,7 +27,7 @@ Le système intègre :
 ## 🛠️ Installation
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/VOTRE_NOM/Projet_Pneumonie_IA.git
+   git clone https://github.com/amine-icame/Projet_Pneumonie_IA.git
 Installez les dépendances :
 code
 Bash
