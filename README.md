@@ -28,16 +28,16 @@ Le système intègre :
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/amine-icame/Projet_Pneumonie_IA.git
-Installez les dépendances :
+2. Installez les dépendances :
 code
 ```Bash
 pip install -r requirements.txt
 ```
-Lancez l'application :
+3. Lancez l'application :
 code
 ```Bash
 python app.py
 ```
-👤 Auteur
+## 👤 Auteur
 
 Réalisé par Amine Içame/ Salma Benomar dans le cadre du module Deep Learning.
