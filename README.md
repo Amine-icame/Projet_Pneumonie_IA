@@ -36,5 +36,6 @@ Lancez l'application :
 code
 Bash
 python app.py
+
 👤 Auteur
 Réalisé par Amine Içame/ Salma Benomar dans le cadre du module Deep Learning.
